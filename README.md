@@ -1,2 +1,2 @@
 # Brief_RPG
-## Requete à faire
+## Développer les composants d'accès aux données
