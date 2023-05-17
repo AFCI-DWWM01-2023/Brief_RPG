@@ -4,6 +4,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 
 1. [Les bases des requetes de sélection](./profile/pdf/1-RequetesDeBase.pdf)  
-2. [Les jointures](./profile/pdf/1-Les_jointures.pdf)
-3. 
+2. [Les jointures](./profile/pdf/2-Les_jointures.pdf)  
+3. [Les groupements ](./profile/pdf/3-Les_jgroupements.pdf)
+4. 
                                                 
